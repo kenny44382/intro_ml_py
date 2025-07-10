@@ -1,9 +1,9 @@
-# intro_ml_py
+# Intro to Machine Learning with python
 
-Book: Introduction to Machine Learning with Python - Andreas C. Müller and Sarah Guido 
+Book: Introduction to Machine Learning with Python - Andreas C. Müller and Sarah Guido.pdf 
 
-# intro_to_Bayes_Stat
-Basic
+# Intro_to_Bayes_Stat
+</br> Basic coding method
 
 https://statsthinking21.github.io/statsthinking21-python
 
@@ -22,7 +22,19 @@ https://statsthinking21.github.io/statsthinking21-python
 - The General Linear Model
 
 
-# control systems resources
+# Control systems resources
 https://murray.cds.caltech.edu/Courses
 </br> CDS 112/Ae 103b, Winter 2023 - Optimal Control and Estimation
 https://murray.cds.caltech.edu/CDS_112/Ae_103b,_Winter_2023
+
+# Python programming resources
+https://www.halvorsen.blog/documents/programming/python/python.php
+
+</br> Below you find Python Resources within different Topics:
+- Python Programming
+- Python for Science and Engineering
+- Python for Control Engineering
+- Python for Software Development
+- Raspberry Pi and Python
+- Internet of Things with Python
+- Web Development with Python
