@@ -38,3 +38,17 @@ https://www.halvorsen.blog/documents/programming/python/python.php
 - Raspberry Pi and Python
 - Internet of Things with Python
 - Web Development with Python
+
+# Deep learning with python: followed the book
+https://github.com/fchollet/deep-learning-with-python-notebooks
+
+https://github.com/MatchLab-Imperial/deep-learning-course
+
+
+# Qiskit: Qiskit is a collection of software for executing programs on quantum computers.
+https://github.com/Qiskit
+
+https://cs269q.stanford.edu/syllabus.html
+
+https://github.com/MonitSharma/Introduction-to-Quantum-Computing
+https://github.com/MonitSharma/Learn-Quantum-Machine-Learning
