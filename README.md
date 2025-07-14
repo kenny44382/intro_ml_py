@@ -51,4 +51,5 @@ https://github.com/Qiskit
 https://cs269q.stanford.edu/syllabus.html
 
 https://github.com/MonitSharma/Introduction-to-Quantum-Computing
+
 https://github.com/MonitSharma/Learn-Quantum-Machine-Learning
